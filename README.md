@@ -33,4 +33,5 @@ There are **13 variables** in this data set:
  The following is the **structure of the data set**.
 
 
-![image.png](attachment:image.png)
+![image](https://github.com/DivyaChitransh/Loan-Prediction-with-Various-ML-Models/assets/147910649/0154318d-1d64-4571-b1f3-8ea5ed47e1d0)
+
